@@ -1,0 +1,5 @@
+INODES play Important Role in File System 
+Every file has unique INODE in UNIX OS (ANY)
+if we open file Open system call return File discriptor.
+and with that discriptor we can do many operations like
+read,write,lseek,chown,chown etc.
